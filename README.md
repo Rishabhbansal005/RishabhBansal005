@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbansa123&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbansa123" /> </p>
 
-- 🔭 Snake game made with python with help of Pygame library [Snake Game](https://github.com/RishabhBansa123/Snake-Game)
+- 🐍 "Snake game made with python with help of Pygame library" [Snake Game](https://github.com/RishabhBansa123/Snake-Game)
 
-- <img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" width="35"/> Netflix-clone made with HTML and CSS – [Netflix Clone](https://github.com/Rishabhbansal005/Netflix-clone)
-- 👁️"VISION: A web application for visually impaired people. [VISION](https://github.com/Rishabhbansal005/VISION)
+- <img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" width="35"/> "Netflix-clone made with HTML and CSS."– [Netflix Clone](https://github.com/Rishabhbansal005/Netflix-clone)
+- 👁️"VISION: A web application for visually impaired people." [VISION](https://github.com/Rishabhbansal005/VISION)
 
 - 📫 How to reach me **rishi251073@gmail.com**
 
