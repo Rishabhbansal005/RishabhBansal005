@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishabh Bansal</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
+<img aling="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbansa123&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbansa123" /> </p>
 
 - 🐍 "Snake game made with python with help of Pygame library" [Snake Game](https://github.com/RishabhBansa123/Snake-Game)
