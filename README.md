@@ -5,11 +5,11 @@
 
 - 🔭 Snake game made with python with help of Pygame library [Snake Game](https://github.com/RishabhBansa123/Snake-Game)
 
--<img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" width="20"/> Netflix-clone made with HTML and CSS – [View Project](https://github.com/your-username/netflix-clone)
-
-
+- <img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" width="35"/> Netflix-clone made with HTML and CSS – [View Project](https://github.com/your-username/netflix-clone)
 
 - 📫 How to reach me **rishi251073@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
