@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Bansal</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
-<img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbansa123&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbansa123" /> </p>
 
