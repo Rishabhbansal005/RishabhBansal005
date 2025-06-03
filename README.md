@@ -5,7 +5,14 @@
 
 - 🔭 Snake game made with python with help of Pygame library [Snake Game](https://github.com/RishabhBansa123/Snake-Game)
 
-- <img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" alt="Netflix Logo" width="35"> Netflix-clone made with the use of HTML and CSS [Netflix-clone](https://github.com/RishabhBansa123/Netflix-clone)
+-<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" alt="Netflix Logo" style="width: 24px; height: 24px; margin-right: 8px;">
+  <span>
+    Netflix-clone made with the use of HTML and CSS 
+    <a href="https://your-link-here.com">Netflix-clone</a>
+  </span>
+</div>
+
 
 - 📫 How to reach me **rishi251073@gmail.com**
 
