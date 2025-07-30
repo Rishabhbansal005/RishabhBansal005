@@ -8,6 +8,7 @@
 
 - <img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" width="35"/> "Netflix-clone made with HTML and CSS."– [Netflix Clone](https://github.com/Rishabhbansal005/Netflix-clone)
 - 👁️"VISION: A web application for visually impaired people." [VISION](https://github.com/Rishabhbansal005/VISION)
+- 🇮🇳 "Indian Culture & Heritage: A Modern Design Recreation of https://indianculture.gov.in/, and a Small Contribution to Our Beautiful, Rich Culture and Heritage — Featuring Bharat AI (an AI Chatbot)."
 
 - 📫 How to reach me **rishi251073@gmail.com**
 
