@@ -2,7 +2,7 @@
 
 # Hi, I'm Rishabh Bansal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CS+Student+from+India;Building+web+apps+%26+solving+problems;Java+%7C+Python+%7C+MySQL+%7C+Git+%26+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CS+Student+from+India;Building+web+apps+%26+solving+problems" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/rishabh%20bansal" target="_blank">LinkedIn</a> •
