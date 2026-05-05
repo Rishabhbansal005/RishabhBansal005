@@ -59,20 +59,11 @@
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhbansal005&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhbansal005&theme=tokyonight" height="160" alt="GitHub streak" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
-> If you don’t see the animation yet, enable GitHub Actions and wait for the workflow to run.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rishabhbansal005/RishabhBansal005/output/github-contribution-grid-snake.svg" alt="snake animation" />
