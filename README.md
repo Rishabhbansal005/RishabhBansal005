@@ -18,7 +18,7 @@
 - <img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" width="18" /> **Netflix Clone (HTML + CSS)** — [Repository](https://github.com/Rishabhbansal005/Netflix-Clone)
 - 👁️ **VISION** — A web application for visually impaired people — [Repository](https://github.com/Rishabhbansal005/VISION)
 - 🇮🇳 **Indian Culture & Heritage** — Modern recreation of https://indianculture.gov.in/ + **Bharat AI** — [Repository](https://github.com/Rishabhbansal005/Indian-Culture-Heritage)
-- ⚓ **Navik Project** — [Repository](PASTE_NAVIK_PROJECT_LINK_HERE)
+- ⚓ **Navik Project** — [Repository](https://github.com/Rishabhbansal005/Navik)
 
 ---
 
