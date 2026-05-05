@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Languages & Tools (Vertical)
+## 🛠️ Languages & Tools 
 
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
