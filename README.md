@@ -2,7 +2,7 @@
 
 # Hi, I'm Rishabh Bansal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CS+Student+from+India;Building+web+apps+%26+solving+problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CS+Student+from+India;Building+web+apps+%26+solving+problems;Java+%7C+Python+%7C+MySQL+%7C+Git+%26+GitHub" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/rishabh%20bansal" target="_blank">LinkedIn</a> •
@@ -21,7 +21,7 @@
 
 - 👁️ **VISION** — A web application for visually impaired people — [Repository](https://github.com/Rishabhbansal005/VISION)
 - 🇮🇳 **Indian Culture & Heritage** — Modern recreation of https://indianculture.gov.in/ + **Bharat AI** — [Repository](https://github.com/Rishabhbansal005/Indian-Culture-Heritage)
-- ⚓ **Navik** — [Repository](https://github.com/Rishabhbansal005/Navik)
+- ⚓ **Navik** — An iOS AR app for people with memory challenges that saves item locations using AR/LiDAR and guides users back with arrows + haptics. — [Repository](https://github.com/Rishabhbansal005/Navik)
 
 ---
 
@@ -44,5 +44,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rishabhbansal005/RishabhBansal005/output/github-contribution-grid-snake.svg" alt="snake animation" width="900" />
 </p>
-
-
