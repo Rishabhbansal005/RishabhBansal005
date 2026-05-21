@@ -2,7 +2,7 @@
 
 # Hi, I'm Rishabh Bansal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CS+Student+from+India;Building+web+apps+%26+solving+problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CS+Student+from+India;Building+web+apps+%26+solving[...]
 
 <p>
   <a href="https://linkedin.com/in/rishabh%20bansal" target="_blank">LinkedIn</a> •
@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects
 
 - 👁️ **VISION** — A web application for visually impaired people — [Repository](https://github.com/Rishabhbansal005/VISION)
-- 🇮🇳 **Indian Culture & Heritage** — Modern recreation of https://indianculture.gov.in/ + **Bharat AI** — [Repository]([https://github.com/Rishabhbansal005/Indian-Culture-Heritage](https://github.com/Rishabhbansal005/Indian-Heritage-and-Culture))
+- 🇮🇳 **Indian Culture & Heritage** — Modern recreation of https://indianculture.gov.in/ + **Bharat AI** — [Repository](https://github.com/Rishabhbansal005/Indian-Culture-Heritage)
 - ⚓ **Navik** — An iOS AR app for people with memory challenges that saves item locations using AR/LiDAR and guides users back with arrows + haptics. — [Repository](https://github.com/Rishabhbansal005/Navik)
 
 ---
