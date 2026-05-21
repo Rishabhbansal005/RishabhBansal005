@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects
 
 - 👁️ **VISION** — A web application for visually impaired people — [Repository](https://github.com/Rishabhbansal005/VISION)
-- 🇮🇳 **Indian Culture & Heritage** — Modern recreation of https://indianculture.gov.in/ + **Bharat AI** — [Repository](https://github.com/Rishabhbansal005/Indian-Culture-Heritage)
+- 🇮🇳 **Indian Culture & Heritage** — Modern recreation of https://indianculture.gov.in/ + **Bharat AI** — [Repository]([https://github.com/Rishabhbansal005/Indian-Culture-Heritage](https://github.com/Rishabhbansal005/Indian-Heritage-and-Culture))
 - ⚓ **Navik** — An iOS AR app for people with memory challenges that saves item locations using AR/LiDAR and guides users back with arrows + haptics. — [Repository](https://github.com/Rishabhbansal005/Navik)
 
 ---
