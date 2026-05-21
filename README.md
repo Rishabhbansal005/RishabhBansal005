@@ -2,16 +2,16 @@
 
 # Hi, I'm Rishabh Bansal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CS+Student+from+India;Building+web+apps+%26+solving[...]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CS+Student+from+India;Building+web+apps+%26+solving%20problems;Always%20learning%20new%20things" />
 
 <p>
-  <a href="https://linkedin.com/in/rishabh%20bansal" target="_blank">LinkedIn</a> •
+  <a href="https://linkedin.com/in/rishabh-bansal" target="_blank">LinkedIn</a> •
   <a href="https://www.leetcode.com/rishabh_bansal005" target="_blank">LeetCode</a> •
   <a href="mailto:rishi251073@gmail.com" target="_blank">Email</a> •
   <a href="https://instagram.com/rishabh_bansal005" target="_blank">Instagram</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rishabhbansa123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Rishabhbansal005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
