@@ -25,17 +25,17 @@
 
 ---
 
-## 🛠️ Tech Stack (Vertical)
+## 🛠️ Tech Stack
 
-<table>
-  <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28"/></td><td><b>Java</b></td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/></td><td><b>Python</b></td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28"/></td><td><b>HTML5</b></td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28"/></td><td><b>CSS3</b></td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/></td><td><b>MySQL</b></td></tr>
-  <tr><td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/></td><td><b>Git</b></td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/></td><td><b>GitHub</b></td></tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
